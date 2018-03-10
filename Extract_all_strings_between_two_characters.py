@@ -8,3 +8,5 @@ def extract_all_strings_between_2_characters(File_to_extract_strings_from, begin
 
 
 #extract_all_strings_between_2_characters()
+
+
