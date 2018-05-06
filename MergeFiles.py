@@ -1,5 +1,5 @@
 
-import glob,os,time
+import glob
 
 def MergeFiles(FilesToBeMerged, NewFileName):
     allfiles = glob.glob(FilesToBeMerged)
