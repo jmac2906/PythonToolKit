@@ -1,7 +1,5 @@
 
 import glob,os,time
-print("please enter the name of the output file remember quotes")
-
 
 def MergeFiles(FilesToBeMerged, NewFileName):
     allfiles = glob.glob(FilesToBeMerged)
